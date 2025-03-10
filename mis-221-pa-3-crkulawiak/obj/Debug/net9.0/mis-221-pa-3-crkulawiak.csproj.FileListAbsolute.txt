@@ -1,0 +1,15 @@
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\bin\Debug\net9.0\mis-221-pa-3-crkulawiak.exe
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\bin\Debug\net9.0\mis-221-pa-3-crkulawiak.deps.json
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\bin\Debug\net9.0\mis-221-pa-3-crkulawiak.runtimeconfig.json
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\bin\Debug\net9.0\mis-221-pa-3-crkulawiak.dll
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\bin\Debug\net9.0\mis-221-pa-3-crkulawiak.pdb
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.AssemblyInfoInputs.cache
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.AssemblyInfo.cs
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.csproj.CoreCompileInputs.cache
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.sourcelink.json
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.dll
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\refint\mis-221-pa-3-crkulawiak.dll
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.pdb
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\mis-221-pa-3-crkulawiak.genruntimeconfig.cache
+C:\UA\MIS - 221\mis-221-pa-3-crkulawiak\obj\Debug\net9.0\ref\mis-221-pa-3-crkulawiak.dll
